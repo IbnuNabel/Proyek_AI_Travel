@@ -5,7 +5,7 @@ from streamlit_js_eval import get_geolocation
 from geopy.distance import geodesic
 
 # --- 1. KONFIGURASI GEMINI ---
-genai.configure(api_key="Isikan_API_Anda")
+genai.configure(api_key="Isikan_API_Key_Anda")
 model = genai.GenerativeModel('models/gemini-2.5-flash')
 
 # --- 2. FUNGSI AMBIL DATA CERDAS (OVERPASS API) ---
