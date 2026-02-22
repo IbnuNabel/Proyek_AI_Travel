@@ -1,7 +1,3 @@
-Berikut versi **README.md** yang lebih rapi, konsisten, dan siap dipakai di GitHub (menggunakan Markdown standar):
-
----
-
 # 🌍 Smart AI Travel Assistant (Free Version)
 
 **Smart AI Travel Assistant** adalah aplikasi chatbot cerdas yang memberikan rekomendasi tempat wisata **secara real-time** berdasarkan **lokasi pengguna** dan **mood (suasana hati)**.
